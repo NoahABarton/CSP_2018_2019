@@ -6,7 +6,7 @@
 #     move: A function that returns 'c' or 'b'
 ####
 
-team_name = 'BillShank' # Only 10 chars displayed.
+team_name = 'BigBoiName' # Only 10 chars displayed.
 strategy_name = 'MAGA'
 strategy_description = 'Irrational Moves: If winning change.'
 def move(my_history, their_history, my_score, their_score):
